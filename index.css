@@ -112,13 +112,13 @@ button {
 .tweet-details{
     display: flex;
     font-size: 13px;
-    justify-content: space-between;
-    width: 160px;
+    width: 99%;
 }
 
 .tweet-detail{
     display: flex;
     gap: 4px;
+    width: 33%;
 }
 
 .tweet-reply{
